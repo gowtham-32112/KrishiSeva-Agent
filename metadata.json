@@ -1,0 +1,6 @@
+{
+  "name": "KrishiSeva Agent",
+  "description": "A production-quality multi-agent AI system for real-time crop disease diagnosis and weather-aware farming advisory, built for Indian small farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
