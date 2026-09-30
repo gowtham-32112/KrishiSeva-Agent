@@ -237,12 +237,6 @@ CMD ["npm", "start"]
 
 ---
 
-## 📞 Kisan Helpline
-
-Indian farmers can reach **Kisan Call Centre (KCC)** at **1800-180-1551** (Toll-Free, 6 AM–10 PM daily). This number is prominently integrated in the KrishiSeva dashboard.
-
----
-
 *Built with ❤️ for Indian smallholders to secure harvests and safeguard livelihoods.*
 *Kaggle AI Agents: Intensive Vibe Coding Capstone — Agents for Good Track*
 
